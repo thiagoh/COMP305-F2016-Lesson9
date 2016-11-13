@@ -118,6 +118,7 @@
     <Compile Include="Assets\_Imported Assets\Standard Assets\Utility\TimedObjectDestructor.cs" />
     <Compile Include="Assets\_Imported Assets\Standard Assets\Utility\WaypointCircuit.cs" />
     <Compile Include="Assets\_Imported Assets\Standard Assets\Utility\WaypointProgressTracker.cs" />
+    <Compile Include="Assets\_Scripts\FollowPlayer.cs" />
     <Compile Include="Assets\_Scripts\PlayerShooting.cs" />
   </ItemGroup>
   <ItemGroup>
